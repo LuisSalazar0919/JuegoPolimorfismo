@@ -1,4 +1,4 @@
 # JuegoPolimorfismo
 Proyecto de clase
 
-[![UML-P.png](https://i.postimg.cc/3x9ztWyB/UML-P.png)](https://postimg.cc/K1k9zGDk)
+[![captura-UML.png](https://i.postimg.cc/LXM4jNn7/captura-UML.png)](https://postimg.cc/kVfdmNNF)
